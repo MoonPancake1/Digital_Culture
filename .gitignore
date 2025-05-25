@@ -1,2 +1,4 @@
 venv
 *.zip
+.pytest_cache
+__pycache__
